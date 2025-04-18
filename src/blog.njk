@@ -1,0 +1,127 @@
+---
+title: Paper Insights and Trends | Prem Convertors Blog
+description: Stay updated with insights, tips, and trends in specialty paper. Explore our blog to learn more about innovative paper products and their applications.
+layout: 'base.njk'
+urlo: blog
+---
+
+<main>
+
+            <header class="site-header site-news-header">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-lg-10 col-12 mx-auto">
+                            <h1 class="text-white">Our Blogs</h1>
+
+                            <strong class="text-white">Educate yourself about the products we offer!</strong>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="overlay"></div>
+            </header>
+
+            {# <section class="news section-padding bg-white">
+                <div class="container">
+                    <div class="row">
+
+                        <h2 class="mb-lg-5 mb-4">Featured</h2>
+                        
+                        <div class="col-lg-6 col-md-6 col-12">
+                            <div class="news-thumb mb-4">
+                                <a href="./blogs/fast-food-pouches-engineering-the-perfect-on-the-go-dining-experience.html">
+                                    <img src="/images/news/pablo-merchan-montes-Orz90t6o0e4-unsplash.jpg" class="img-fluid news-image" alt="Fast food pouch paper by prem foils">
+                                </a>
+                                
+                                <div class="news-text-info news-text-info-large">
+                                    <span class="category-tag bg-danger">Featured</span>
+
+                                    <h5 class="news-title mt-2">
+                                        <a href="./blogs/fast-food-pouches-engineering-the-perfect-on-the-go-dining-experience.html" class="news-title-link">Fast food pouches engineering, the perfect on the go dining experience</a>
+                                    </h5>
+                                </div>
+                            </div> 
+                        </div>
+
+                        <div class="col-lg-6 col-md-6 col-12">
+                            <div class="news-thumb mb-4">
+                                <a href="./blogs/tea-packaging-pouches-preserving-freshness-and-flavor-in-every-cup.html">
+                                    <img src="/images/news/stefan-johnson-xIFbDeGcy44-unsplash.jpg" class="img-fluid news-image" alt="Tea packing pouches">
+                                </a>
+                                
+                                <div class="news-text-info news-text-info-large">
+                                    <span class="category-tag bg-danger">Featured</span>
+
+                                    <h5 class="news-title mt-2">
+                                        <a href="./blogs/tea-packaging-pouches-preserving-freshness-and-flavor-in-every-cup.html" class="news-title-link">Tea packing pouches preserving freshness and flavor in every cup</a>
+                                    </h5>
+                                </div>
+                            </div> 
+                        </div>
+
+                    </div>
+                </div>
+            </section> #}
+
+            <section class="news section-padding bg-white">
+    <div class="container">
+        <div class="row">
+
+            <h2 class="mb-lg-5 mb-4">Featured</h2>
+
+            {% for post in collections.featured %}
+                <div class="col-lg-6 col-md-6 col-12">
+                    <div class="news-thumb mb-4">
+                        <a href="{{ post.url }}">
+                            <img src="{{ post.data.image }}" class="img-fluid news-image" alt="{{ post.data.imageAlt }}">
+                        </a>
+                        
+                        <div class="news-text-info news-text-info-large">
+                            <span class="category-tag bg-danger">Featured</span>
+
+                            <h5 class="news-title mt-2">
+                                <a href="{{ post.url }}" class="news-title-link">{{ post.data.title }}</a>
+                            </h5>
+                        </div>
+                    </div> 
+                </div>
+            {% endfor %}
+
+        </div>
+    </div>
+</section>
+
+
+            <section class="news section-padding">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-12">
+                            <h2 class="mb-lg-5 mb-4">All Blogs</h2>
+                        </div>
+
+                        <!-- <div class="col-lg-4 col-md-6 col-12">
+                            <div class="news-thumb mb-4">
+                                <a href="news-detail.html">
+                                    <img src="images/news/gilles-lambert-S_LhjpfIdm4-unsplash.jpg" class="img-fluid news-image" alt="">
+                                </a>
+                                
+                                <div class="news-text-info">
+                                    <h5 class="news-title mt-2">
+                                        <a href="news-detail.html" class="news-title-link">Is Coconut good for your health?</a>
+                                    </h5>
+                                </div>
+                            </div> 
+                        </div> -->
+                        {% for post in collections.post %}
+ {% include 'article-snippet.njk' %}
+        {% endfor %}
+                    </div>
+                </div>
+            </section>
+
+        </main>
+
+        

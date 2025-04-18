@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <meta name="description" content="{{description}}">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="theme-color" content="#ffffff">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="twitter:title" content="{{title}}">
+        <meta name="twitter:description" content="{{description}}">
+        <meta name="twitter:image" content="/images/logo.png">
+        <meta property="og:title" content="{{title}}">
+        <meta property="og:description" content="{{description}}">
+        <meta property="og:type" content="article">
+        <meta property="og:image" content="/images/news/blog-header.jpg">
+        <meta property="og:site_name" content="Prem Convertors">
+        <meta property="article:author" content="Prem Convertors">
+        <meta property="og:url" content="https://premconvertors.pages.dev/{{urlo}}">
+        <link rel="canonical" href="https://premconvertors.pages.dev/{{urlo}}">
+
+        <title>{{title}}</title>
+
+        <!-- CSS FILES -->    
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">                    
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+
+        <link href="/css/bootstrap-icons.css" rel="stylesheet">
+
+        <link href="/css/tooplate-crispy-kitchen.css" rel="stylesheet">
+        <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon">
+
+        <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Prem Convertors",
+  "url": "https://premconvertors.pages.dev/{{urlo}}",
+  "logo": "https://premconvertors.pages.dev/images/logo.png",  // Add your logo URL if available
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "telephone": "+919736744977",
+      "contactType": "Customer Service",
+      "areaServed": "IN",
+      "availableLanguage": "en"
+    },
+    {
+      "@type": "ContactPoint",
+      "telephone": "+919805005775",
+      "contactType": "Customer Service",
+      "areaServed": "IN",
+      "availableLanguage": "en"
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Sai Rd",
+    "addressLocality": "Baddi",
+    "addressRegion": "Himachal Pradesh",
+    "postalCode": "173205",
+    "addressCountry": "IN"
+  },
+  "description": "{{description}}",
+  "keywords": "specialty paper, paper manufacturing, Baddi, Himachal Pradesh, Prem Convertors",
+  "sameAs": "https://maps.app.goo.gl/CJeKRwPJx3FNLzyw9?g_st=com.google.maps.preview.copy"
+}
+</script>
+
+
+    </head>
+<body>
+    {% include 'header.njk' %}
+    <main>
+        {{ content | safe }}
+    </main>
+    {% include 'footer.njk' %}
+</body>
+</html>
