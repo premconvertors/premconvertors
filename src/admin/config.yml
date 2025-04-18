@@ -7,6 +7,8 @@ backend:
   auth_endpoint: /api/auth
 media_folder: "src/images/blog"
 public_folder: "/images/blog"
+editor:
+  preview: false
 collections:
   - name: "blog"
     label: "Blog"
