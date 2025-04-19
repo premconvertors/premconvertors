@@ -12,6 +12,8 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy('./src/video')
     eleventyConfig.addPassthroughCopy('./src/blog/blogs.json')
     eleventyConfig.addPassthroughCopy('./src/admin/config.yml')
+    eleventyConfig.addPassthroughCopy('./src/robots.txt')
+    eleventyConfig.addPassthroughCopy('./src/sitemap.xml')
 
     // eleventyConfig.addPassthroughCopy('./src/admin/config.yml')
     

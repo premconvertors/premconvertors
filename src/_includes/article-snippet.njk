@@ -1,6 +1,6 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="news-thumb mb-4">
-                                <a href="{{post.url}}">
+                                <a href="{{post.url}}" aria-label="Read more about the blog, {{ post.data.title }}">
                                     <div style="aspect-ratio: 3 / 2;">
                                         <img src="{{post.data.image}}" class="img-fluid news-image object-fit-cover" alt="{{post.data.imageAlt}}">
                                     </div>
@@ -8,7 +8,7 @@
                                 
                                 <div class="news-text-info">
                                     <h5 class="news-title mt-2">
-                                        <a href="{{post.url}}" class="news-title-link">{{post.data.title}}</a>
+                                        <a href="{{post.url}}" class="news-title-link" aria-label="Read more about the blog, {{ post.data.title }}">{{post.data.title}}</a>
                                     </h5>
                                 </div>
                             </div> 

@@ -127,7 +127,7 @@ urlo: ''
                         <source src="video/hero-bg.mp4" type="video/mp4">
                         	Your browser does not support the video tag.
                     	</video> #}
-                        <img src="/images/header/priscilla-du-preez-W3SEyZODn8U-unsplash.webp" class="custom-image" loading="eager">
+                        {# <img src="/images/header/priscilla-du-preez-W3SEyZODn8U-unsplash.webp" class="custom-image" loading="eager" alt="colourful Background image of hero section"> #}
                 {# </div> #}
 
                 <div class="overlay"></div>
@@ -174,7 +174,7 @@ urlo: ''
             {% for post in collections.featured %}
                 <div class="col-lg-6 col-md-6 col-12">
                     <div class="news-thumb mb-4">
-                        <a href="{{ post.url }}">
+                        <a href="{{ post.url }}" aria-label="Read more about the blog, {{ post.data.title }}">
                             <img src="{{ post.data.image }}" class="img-fluid news-image" alt="{{ post.data.imageAlt }}" loading="lazy">
                         </a>
                         
@@ -182,7 +182,7 @@ urlo: ''
                             <span class="category-tag bg-danger">Featured</span>
 
                             <h5 class="news-title mt-2">
-                                <a href="{{ post.url }}" class="news-title-link">{{ post.data.title }}</a>
+                                <a href="{{ post.url }}" class="news-title-link"  aria-label="Read more about the blog, {{ post.data.title }}">{{ post.data.title }}</a>
                             </h5>
                         </div>
                     </div> 
@@ -197,7 +197,7 @@ urlo: ''
         {% if "more" in post.data.tags and count < 3 %}
           <div class="col-lg-4 col-md-6 col-12">
             <div class="news-thumb mb-4">
-              <a href="{{ post.url }}">
+              <a href="{{ post.url }}" aria-label="Read more about the blog, {{ post.data.title }}">
                 <div style="aspect-ratio: 3 / 2;">
                     <img src="{{ post.data.image }}" class="img-fluid news-image object-fit-cover" alt="{{ post.data.imageAlt or 'Related blog image' }}" loading="lazy">
                 </div>
@@ -205,7 +205,7 @@ urlo: ''
 
               <div class="news-text-info">
                 <h5 class="news-title mt-2">
-                  <a href="{{ post.url }}" class="news-title-link">{{ post.data.title }}</a>
+                  <a href="{{ post.url }}" class="news-title-link" aria-label="Read more about the blog, {{ post.data.title }}">{{ post.data.title }}</a>
                 </h5>
               </div>
             </div>
