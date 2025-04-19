@@ -45,7 +45,17 @@
         
 
         <!-- JAVASCRIPT FILES -->
-        <script src="/js/jquery.min.js" defer></script>
+        {# <script src="/js/jquery.min.js" defer></script> #}
         <script src="/js/bootstrap.bundle.min.js" defer></script>
-        <script src="/js/custom.js" defer></script>
+        <script>
+            document.querySelectorAll('.navbar-nav .nav-link').forEach(link => {
+  link.addEventListener('click', () => {
+    const collapseEl = document.querySelector('.navbar-collapse');
+    const bsCollapse = bootstrap.Collapse.getInstance(collapseEl);
+    if (bsCollapse) {
+      bsCollapse.hide();
+    }
+  });
+});
 
+        </script>
