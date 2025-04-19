@@ -2,7 +2,7 @@
 title: "Incense Stick Pouches: Preserving Fragrance and Tradition"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/incense.png
+image: /images/blog/incense.webp
 imageAlt: Prem Convertors Product
 description: Explore how specialized incense stick pouches can preserve fragrance integrity, prevent moisture damage, enhance shelf appeal, and honor traditional presentation values.
 date: 2025-04-17

@@ -2,7 +2,7 @@
 title: "Snack Packaging Revolution: How Innovative Paper Solutions Are Changing the Industry"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/snack-packaging.png
+image: /images/blog/snack-packaging.webp
 imageAlt: Prem Convertors Product
 description: Learn how innovative snack packaging paper solutions are meeting modern consumer demands for freshness, convenience, and sustainability in the competitive snack market.
 date: 2025-04-17

@@ -2,7 +2,7 @@
 title: "Candy Wrapping Paper: Elevating Confectionery Through Premium Packaging"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/candy.png
+image: /images/blog/candy.webp
 imageAlt: Prem Convertors Product
 description: Explore how professional candy wrapping paper can enhance product preservation, create memorable unwrapping experiences, and elevate your confectionery brand.
 date: 2025-04-17

@@ -2,7 +2,7 @@
 title: "Injection Packaging Paper Slip-Off: Advanced Solutions for Clinical Efficiency"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/injection-package.png
+image: /images/blog/injection-package.webp
 imageAlt: Prem Convertors Product
 description: Discover how specialized injection packaging papers with slip-off functionality improve clinical efficiency, enhance sterile technique, and maintain product safety in healthcare settings.
 date: 2025-04-17

@@ -2,7 +2,7 @@
 title: "Parchment Paper: The Professional's Secret to Perfect Baking Results"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/parchment.png
+image: /images/blog/parchment.webp
 imageAlt: Prem Convertors Product
 description: Discover why professional bakers rely on high-quality parchment paper for consistent results, improved efficiency, and cost savings in commercial baking operations.
 date: 2025-04-17

@@ -2,7 +2,7 @@
 title: "Oil and Grease Proof Paper Jumbo Roll: Bulk Solutions for Food Manufacturing"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/oil-and-grease.png
+image: /images/blog/oil-and-grease.webp
 imageAlt: Prem Convertors Product
 description: Learn how oil and grease proof paper jumbo rolls can optimize food manufacturing operations, improve production efficiency, reduce waste, and ensure consistent product quality.
 date: 2025-04-17

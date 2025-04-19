@@ -2,7 +2,7 @@
 title: "Anti-Rust Paper: The Unsung Hero of Industrial Packaging Solutions"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/anti-rust.png
+image: /images/blog/anti-rust.webp
 imageAlt: Prem Convertors Product
 description: Discover how anti-rust paper provides superior protection for metal products, prevents costly corrosion damage, and enhances your product reliability with invisible protection.
 date: 2025-04-17

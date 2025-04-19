@@ -2,7 +2,7 @@
 title: "Paper Cup Stock with Plastic-Free Coating: Sustainable Solutions for Beverage Service"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/paper-cup.png
+image: /images/blog/paper-cup.webp
 imageAlt: Prem Convertors Product
 description: Discover how paper cup stock with plastic-free coating can improve sustainability credentials, enhance customer experience, and maintain operational efficiency for beverage services.
 date: 2025-04-17

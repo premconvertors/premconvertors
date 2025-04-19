@@ -2,7 +2,7 @@
 title: "Paper Bowl Stock with Plastic-Free Coating: Sustainable Solutions for Food Containment"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/plastic-bowl.png
+image: /images/blog/plastic-bowl.webp
 imageAlt: Prem Convertors Product
 description: Discover how paper bowl stock with plastic-free coating can improve sustainability credentials, enhance food presentation, and maintain operational performance for modern food service.
 date: 2025-04-17

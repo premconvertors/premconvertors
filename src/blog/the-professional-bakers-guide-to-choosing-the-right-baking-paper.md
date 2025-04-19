@@ -2,7 +2,7 @@
 title: "The Professional Baker's Guide to Choosing the Right Baking Paper"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/baking-paper.png
+image: /images/blog/baking-paper.webp
 imageAlt: Prem Convertors Product
 description: Discover how professional-grade baking paper can improve your commercial baking results, increase efficiency, and reduce costs while meeting sustainability goals.
 date: 2025-04-17

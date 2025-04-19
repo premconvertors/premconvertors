@@ -2,7 +2,7 @@
 title: "TDL Coated Paper: Advanced Solutions for Technical Applications"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/tdl.png
+image: /images/blog/tdl.webp
 imageAlt: Prem Convertors Product
 description: Explore how specialized TDL coated papers provide thermal stability, dimensional control, and liquid resistance for demanding technical applications across multiple industries.
 date: 2025-04-17

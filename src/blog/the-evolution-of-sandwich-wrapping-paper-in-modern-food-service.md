@@ -2,7 +2,7 @@
 title: "The Evolution of Sandwich Wrapping Paper in Modern Food Service"
 author: Prem Convertors
 tags: ["post", "more"]
-image: /images/blog/sandwich-paper.png
+image: /images/blog/sandwich-paper.webp
 imageAlt: Prem Convertors Product
 description: Discover how high-quality sandwich wrapping paper can elevate your food business, enhance presentation, and improve customer satisfaction.
 date: 2025-04-17

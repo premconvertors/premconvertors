@@ -2,7 +2,7 @@
 title: "Butter Paper: The Versatile Solution for Food Packaging and Presentation"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/butter-paper.png
+image: /images/blog/butter-paper.webp
 imageAlt: Prem Convertors Product
 description: Explore the versatility of butter paper in modern food businesses, from presentation to preservation, and learn how to select the right grade for your specific application.
 date: 2025-04-17

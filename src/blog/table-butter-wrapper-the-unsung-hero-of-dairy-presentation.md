@@ -2,7 +2,7 @@
 title: "Table Butter Wrapper: The Unsung Hero of Dairy Presentation"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/table-butter-paper.png
+image: /images/blog/table-butter-paper.webp
 imageAlt: Prem Convertors Product
 description: Discover how professional table butter wrappers can enhance product quality, extend shelf life, and elevate your dairy brand's presentation and consumer appeal.
 date: 2025-04-17

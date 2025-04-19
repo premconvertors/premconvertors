@@ -2,7 +2,7 @@
 title: "Dry Wax Paper: Versatile Solutions for Modern Food Packaging"
 author: Prem Convertors
 tags: ["post", "more"]
-image: /images/blog/dry-wax.png
+image: /images/blog/dry-wax.webp
 imageAlt: Prem Convertors Product
 description: Discover how dry wax paper offers versatile, sustainable food packaging solutions that enhance product freshness, improve presentation, and align with eco-conscious values.
 date: 2025-04-17

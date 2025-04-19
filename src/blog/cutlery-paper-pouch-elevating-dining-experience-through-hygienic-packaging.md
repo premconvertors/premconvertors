@@ -2,7 +2,7 @@
 title: "Cutlery Paper Pouch: Elevating Dining Experience Through Hygienic Packaging"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/cutlery.png
+image: /images/blog/cutlery.webp
 imageAlt: Prem Convertors Product
 description: Explore how professional cutlery paper pouches can improve hygiene perception, enhance brand image, and elevate the dining experience for your food service business.
 date: 2025-04-17

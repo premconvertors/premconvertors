@@ -2,7 +2,7 @@
 title: "French Fry Pouches: Combining Practicality with Brand Expression"
 author: Prem Convertors
 tags: ["post", "featured"]
-image: /images/blog/french-fry.png
+image: /images/blog/french-fry.webp
 imageAlt: Prem Convertors Product
 description: Explore how specialized French fry pouches maintain product crispness and temperature while serving as powerful vehicles for brand expression in modern food service operations.
 date: 2025-04-17

@@ -2,7 +2,7 @@
 title: "Muffin Cup Paper: Enhancing Bakery Products Through Superior Packaging"
 author: Prem Convertors
 tags: ["post", "featured"]
-image: /images/blog/muffin-cup.png
+image: /images/blog/muffin-cup.webp
 imageAlt: Prem Convertors Product
 description: Discover how premium muffin cup papers can improve your baked goods' presentation, enhance performance, reduce waste, and strengthen your bakery brand.
 date: 2025-04-17

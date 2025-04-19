@@ -2,7 +2,7 @@
 title: "Foil + Paper with Honeycomb Air Pocket Technology: The Future of Food Packaging"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/honeycomb.png
+image: /images/blog/honeycomb.webp
 imageAlt: Prem Convertors Product
 description: Explore how innovative Foil + Paper with Honeycomb Air Pocket Technology is revolutionizing food packaging with superior insulation, strength, and sustainability.
 date: 2025-04-17

@@ -2,7 +2,7 @@
 title: "Biscuit Packaging: How Superior Paper Solutions Preserve Crispness and Build Brand Loyalty"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/biscuit-packaging.png
+image: /images/blog/biscuit-packaging.webp
 imageAlt: Prem Convertors Product
 description: Explore how specialized biscuit packaging paper protects product quality, enhances brand perception, and meets consumer demands for sustainability.
 date: 2025-04-17

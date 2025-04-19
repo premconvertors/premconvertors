@@ -2,7 +2,7 @@
 title: "Kraft Paper Pouches: Combining Rustic Appeal with Modern Functionality"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/kraft.png
+image: /images/blog/kraft.webp
 imageAlt: Prem Convertors Product
 description: Discover how kraft paper pouches combine rustic appeal with modern functionality to create packaging that communicates authenticity, provides excellent protection, and enhances brand identity.
 date: 2025-04-17

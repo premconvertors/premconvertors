@@ -2,7 +2,7 @@
 title: "Sandwich Wrapping Paper Jumbo Roll: Bulk Solutions for Food Service Efficiency"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/sandwich-paper.png
+image: /images/blog/sandwich-paper.webp
 imageAlt: Prem Convertors Product
 description: Learn how sandwich wrapping paper jumbo rolls can improve operational efficiency, maintain product freshness, enhance presentation, and reduce waste in high-volume food service environments.
 date: 2025-04-17

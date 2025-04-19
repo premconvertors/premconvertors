@@ -2,7 +2,7 @@
 title: "Why Oil and Grease Proof Paper is Essential for Food Businesses"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/oil-and-grease.png
+image: /images/blog/oil-and-grease.webp
 imageAlt: Prem Convertors Product
 description: Learn how oil and grease proof paper can revolutionize your food packaging, prevent leaks, and enhance customer experience with sustainable solutions.
 date: 2025-04-17

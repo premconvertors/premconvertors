@@ -41,7 +41,7 @@ urlo: ''
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
                                         <div class="carousel-image-wrap" style="aspect-ratio: 3 / 2;">
-                                            <img src="/images/blog/french-fry.png" class="img-fluid carousel-image object-fit-cover" alt="">
+                                            <img src="/images/blog/french-fry.webp" class="img-fluid carousel-image object-fit-cover" alt="French fries in pouches">
                                         </div>
                                         
                                         <div class="carousel-caption">
@@ -56,7 +56,7 @@ urlo: ''
 
                                     <div class="carousel-item">
                                         <div class="carousel-image-wrap" style="aspect-ratio: 3 / 2;">
-                                            <img src="/images/blog/girl-sandwich.png" class="img-fluid carousel-image object-fit-cover" alt="">
+                                            <img src="/images/blog/girl-sandwich.webp" class="img-fluid carousel-image object-fit-cover" alt="girl holding sandwich in sandwich paper">
                                         </div>
                                         
                                         <div class="carousel-caption">
@@ -82,7 +82,7 @@ urlo: ''
 
                                     <div class="carousel-item">
                                         <div class="carousel-image-wrap" style="aspect-ratio: 3 / 2;">
-                                            <img src="/images/blog/muffin-cup.png" class="img-fluid carousel-image object-fit-cover" alt="">
+                                            <img src="/images/blog/muffin-cup.webp" class="img-fluid carousel-image object-fit-cover" alt="muffins in muffin cup">
                                         </div>
                                         
                                         <div class="carousel-caption">
@@ -122,12 +122,13 @@ urlo: ''
                     </div>
                 </div>
 
-                <div class="video-wrap">
-                    <video autoplay="" loop="" muted="" class="custom-video" poster="" style="filter: brightness(60%)">
+                {# <div class="video-wrap"> #}
+                    {# <video autoplay="" loop="" muted="" class="custom-video" poster="" style="filter: brightness(60%)">
                         <source src="video/hero-bg.mp4" type="video/mp4">
                         	Your browser does not support the video tag.
-                    	</video>
-                </div>
+                    	</video> #}
+                        <img src="/images/header/priscilla-du-preez-W3SEyZODn8U-unsplash.webp" class="custom-image" loading="eager">
+                {# </div> #}
 
                 <div class="overlay"></div>
             </section>
@@ -174,7 +175,7 @@ urlo: ''
                 <div class="col-lg-6 col-md-6 col-12">
                     <div class="news-thumb mb-4">
                         <a href="{{ post.url }}">
-                            <img src="{{ post.data.image }}" class="img-fluid news-image" alt="{{ post.data.imageAlt }}">
+                            <img src="{{ post.data.image }}" class="img-fluid news-image" alt="{{ post.data.imageAlt }}" loading="lazy">
                         </a>
                         
                         <div class="news-text-info news-text-info-large">
@@ -198,7 +199,7 @@ urlo: ''
             <div class="news-thumb mb-4">
               <a href="{{ post.url }}">
                 <div style="aspect-ratio: 3 / 2;">
-                    <img src="{{ post.data.image }}" class="img-fluid news-image object-fit-cover" alt="{{ post.data.imageAlt or 'Related blog image' }}">
+                    <img src="{{ post.data.image }}" class="img-fluid news-image object-fit-cover" alt="{{ post.data.imageAlt or 'Related blog image' }}" loading="lazy">
                 </div>
               </a>
 

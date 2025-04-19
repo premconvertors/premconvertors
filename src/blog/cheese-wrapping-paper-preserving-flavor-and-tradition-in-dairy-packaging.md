@@ -2,7 +2,7 @@
 title: "Cheese Wrapping Paper: Preserving Flavor and Tradition in Dairy Packaging"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/cheese.png
+image: /images/blog/cheese.webp
 imageAlt: Prem Convertors Product
 description: Discover how specialized cheese wrapping papers can optimize ripening conditions, preserve flavor profiles, extend shelf life, and enhance your cheese brand presentation.
 date: 2025-04-17

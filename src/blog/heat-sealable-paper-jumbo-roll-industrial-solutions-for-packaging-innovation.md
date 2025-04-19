@@ -2,7 +2,7 @@
 title: "Heat Sealable Paper Jumbo Roll: Industrial Solutions for Packaging Innovation"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/heat-sealable-jumbo.png
+image: /images/blog/heat-sealable-jumbo.webp
 imageAlt: Prem Convertors Product
 description: Explore how heat sealable paper jumbo rolls can transform packaging operations, improve production efficiency, enhance product protection, and support sustainability initiatives.
 date: 2025-04-17

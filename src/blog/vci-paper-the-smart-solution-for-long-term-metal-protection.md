@@ -2,7 +2,7 @@
 title: "VCI Paper: The Smart Solution for Long-Term Metal Protection"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/vci.png
+image: /images/blog/vci.webp
 imageAlt: Prem Convertors Product
 description: Learn how VCI (Vapor Corrosion Inhibitor) paper provides superior protection for metal products during shipping and storage with innovative molecular barrier technology.
 date: 2025-04-17

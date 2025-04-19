@@ -2,7 +2,7 @@
 title: "Injection Packaging Paper: Specialized Solutions for Medical Components"
 author: Prem Convertors
 tags: ["post", "more"]
-image: /images/blog/medical-device.png
+image: /images/blog/medical-device.webp
 imageAlt: Prem Convertors Product
 description: Explore how specialized injection packaging papers ensure sterility maintenance, regulatory compliance, and safety for critical medical injection devices and components.
 date: 2025-04-17

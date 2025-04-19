@@ -2,7 +2,7 @@
 title: "PFAS Free Oil and Grease Proof Paper: The Future of Food Packaging"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/pfas-oilfree.png
+image: /images/blog/pfas-oilfree.webp
 imageAlt: Prem Convertors Product
 description: Explore how PFAS-free oil and grease proof paper offers sustainable, health-conscious food packaging solutions without compromising on performance or quality.
 date: 2025-04-17

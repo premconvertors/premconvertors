@@ -2,7 +2,7 @@
 title: "Pharma Pouches: Ensuring Safety and Compliance in Medical Packaging"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/pharma-pouch.png
+image: /images/blog/pharma-pouch.webp
 imageAlt: Prem Convertors Product
 description: Discover how specialized pharmaceutical pouches ensure product integrity, regulatory compliance, patient safety, and supply chain security for critical medications.
 date: 2025-04-17

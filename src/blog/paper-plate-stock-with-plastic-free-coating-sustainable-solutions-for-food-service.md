@@ -2,7 +2,7 @@
 title: "Paper Plate Stock with Plastic-Free Coating: Sustainable Solutions for Food Service"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/paper-plate.png
+image: /images/blog/paper-plate.webp
 imageAlt: Prem Convertors Product
 description: Learn how paper plate stock with plastic-free coating can enhance sustainability credentials, improve food presentation, and maintain performance for modern food service operations.
 date: 2025-04-17

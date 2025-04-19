@@ -2,7 +2,7 @@
 title: "Dental Kit Pouches: Enhancing Practice Efficiency and Patient Experience"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/dental.png
+image: /images/blog/dental.webp
 imageAlt: Prem Convertors Product
 description: Learn how specialized dental kit pouches can improve clinical efficiency, ensure sterility, enhance patient perception, and streamline procedures in your dental practice.
 date: 2025-04-17

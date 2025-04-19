@@ -2,7 +2,7 @@
 title: "Tea Packaging Pouches: Preserving Aroma and Freshness While Enhancing Brand Appeal"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/tea-packaging.png
+image: /images/blog/tea-packaging.webp
 imageAlt: Prem Convertors Product
 description: Learn how specialized tea packaging pouches preserve aroma and freshness while enhancing brand appeal through technical preservation features and thoughtful design elements.
 date: 2025-04-17

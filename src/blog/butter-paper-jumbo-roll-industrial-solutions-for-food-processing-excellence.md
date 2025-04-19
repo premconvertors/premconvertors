@@ -2,7 +2,7 @@
 title: "Butter Paper Jumbo Roll: Industrial Solutions for Food Processing Excellence"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/butter-jumbo.png
+image: /images/blog/butter-jumbo.webp
 imageAlt: Prem Convertors Product
 description: Discover how butter paper jumbo rolls can enhance food processing efficiency, improve product quality, reduce waste, and optimize operations in bakery and dairy applications.
 date: 2025-04-17

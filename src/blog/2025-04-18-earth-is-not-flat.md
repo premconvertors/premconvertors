@@ -4,7 +4,7 @@ description: said a german mf
 author: aha ha
 date: 2025-04-18T09:42:34.414Z
 tags: post
-image: /images/blog/anti-rust.png
+image: /images/blog/anti-rust.webp
 imageAlt: ringa roll
 ---
 # Lorem nig 

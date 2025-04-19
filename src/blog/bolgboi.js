@@ -1013,7 +1013,7 @@ const frontmatter = `---
 title: "${item.title}"
 author: Prem Convertors
 tags: ["post"]
-image: /images/news/ella-olsson-mmnKI8kMxpc-unsplash.jpg
+image: /images/news/ella-olsson-mmnKI8kMxpc-unsplash.webp
 imageAlt: Prem Convertors Product
 description: ${item.metaDescription}
 date: ${new Date().toISOString().split('T')[0]}

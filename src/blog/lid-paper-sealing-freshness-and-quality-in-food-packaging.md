@@ -2,7 +2,7 @@
 title: "Lid Paper: Sealing Freshness and Quality in Food Packaging"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/paperlid.png
+image: /images/blog/paperlid.webp
 imageAlt: Prem Convertors Product
 description: Learn how specialized lid papers can improve food product safety, extend shelf life, enhance consumer convenience, and strengthen your brand presentation.
 date: 2025-04-17

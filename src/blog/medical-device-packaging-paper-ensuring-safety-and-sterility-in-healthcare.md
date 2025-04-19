@@ -2,7 +2,7 @@
 title: "Medical Device Packaging Paper: Ensuring Safety and Sterility in Healthcare"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/medical-device.png
+image: /images/blog/medical-device.webp
 imageAlt: Prem Convertors Product
 description: Learn how specialized medical device packaging papers ensure product sterility, regulatory compliance, aseptic presentation, and safety throughout the healthcare supply chain.
 date: 2025-04-17

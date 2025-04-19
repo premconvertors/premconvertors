@@ -2,7 +2,7 @@
 title: "Heat Sealable Paper Stock: Innovative Materials for Flexible Packaging"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/heat-sealable.png
+image: /images/blog/heat-sealable.webp
 imageAlt: Prem Convertors Product
 description: Explore how heat sealable paper stock can revolutionize your packaging design, enhance shelf appeal, improve sustainability credentials, and maintain product protection performance.
 date: 2025-04-17

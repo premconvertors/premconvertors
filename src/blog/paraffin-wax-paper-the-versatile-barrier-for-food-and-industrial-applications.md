@@ -2,7 +2,7 @@
 title: "Paraffin Wax Paper: The Versatile Barrier for Food and Industrial Applications"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/paraffin.png
+image: /images/blog/paraffin.webp
 imageAlt: Prem Convertors Product
 description: Explore how paraffin wax paper creates an effective moisture barrier for both food and industrial applications, protecting products while maintaining necessary breathability.
 date: 2025-04-17

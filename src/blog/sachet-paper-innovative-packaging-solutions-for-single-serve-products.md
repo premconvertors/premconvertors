@@ -2,7 +2,7 @@
 title: "Sachet Paper: Innovative Packaging Solutions for Single-Serve Products"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/sachet.png
+image: /images/blog/sachet.webp
 imageAlt: Prem Convertors Product
 description: Learn how specialized sachet papers can improve product protection, enhance consumer convenience, and strengthen your brand presentation in single-serve applications.
 date: 2025-04-17

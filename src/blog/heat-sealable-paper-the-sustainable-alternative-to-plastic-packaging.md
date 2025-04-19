@@ -2,7 +2,7 @@
 title: "Heat Sealable Paper: The Sustainable Alternative to Plastic Packaging"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/heat-sealable.png
+image: /images/blog/heat-sealable.webp
 imageAlt: Prem Convertors Product
 description: Discover how heat sealable paper offers a sustainable alternative to plastic packaging with comparable performance, improved aesthetics, and reduced environmental impact.
 date: 2025-04-17

@@ -2,7 +2,7 @@
 title: "The Art of Bread Packaging: How the Right Pouches Enhance Freshness and Appeal"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/bread-packaging.png
+image: /images/blog/bread-packaging.webp
 imageAlt: Prem Convertors Product
 description: Discover how specialized bread packaging pouches can extend product freshness, enhance presentation, and appeal to eco-conscious consumers.
 date: 2025-04-17

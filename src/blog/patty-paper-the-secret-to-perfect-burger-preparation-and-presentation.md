@@ -2,7 +2,7 @@
 title: "Patty Paper: The Secret to Perfect Burger Preparation and Presentation"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/patty-paper.png
+image: /images/blog/patty-paper.webp
 imageAlt: Prem Convertors Product
 description: Learn how specialized patty paper can improve burger quality, streamline preparation, reduce waste, and enhance customer satisfaction for your food business.
 date: 2025-04-17

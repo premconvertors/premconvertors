@@ -2,7 +2,7 @@
 title: "Butter Paper Pouches: Elegant Protection for Premium Products"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/butter-pouch.png
+image: /images/blog/butter-pouch.webp
 imageAlt: Prem Convertors Product
 description: Explore how butter paper pouches provide elegant protection for premium products with their sophisticated appearance, functional benefits, and ability to create distinctive brand experiences.
 date: 2025-04-17

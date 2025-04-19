@@ -2,7 +2,7 @@
 title: "Fast Food Pouches: Enhancing the Customer Experience Through Innovative Packaging"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/fast-food.png
+image: /images/blog/fast-food.webp
 imageAlt: Prem Convertors Product
 description: Discover how specialized fast food pouches enhance customer experience through technical features that preserve food quality while delivering operational benefits for food service businesses.
 date: 2025-04-17

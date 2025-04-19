@@ -2,7 +2,7 @@
 title: "Straw Wrap Paper: Sustainable Solutions for Modern Food Service"
 author: Prem Convertors
 tags: ["post"]
-image: /images/blog/straw-wrap.png
+image: /images/blog/straw-wrap.webp
 imageAlt: Prem Convertors Product
 description: Discover how quality straw wrap papers can enhance hygiene perception, support sustainability initiatives, and elevate customer experience for your food service business.
 date: 2025-04-17
