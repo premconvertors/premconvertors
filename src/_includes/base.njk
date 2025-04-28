@@ -33,6 +33,17 @@
         <link href="/css/bootstrap-icons.css" rel="stylesheet">
 
         <link href="/css/tooplate-crispy-kitchen.css" rel="stylesheet">
+
+        {# <link rel="preload" href="/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/css/bootstrap.min.css"></noscript>
+
+<link rel="preload" href="/css/bootstrap-icons.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/css/bootstrap-icons.css"></noscript>
+
+<link rel="preload" href="/css/tooplate-crispy-kitchen.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/css/tooplate-crispy-kitchen.css"></noscript> #}
+
+
         <link rel="shortcut icon" href="/images/favicon.webp" type="image/x-icon">
 
         {% if page.url == "/" %}
@@ -101,7 +112,12 @@
     body{
         font-family: 'Montserrat', Arial, Helvetica, sans-serif !important;
     }
-  </style>
+    @font-face {
+  font-family: 'CustomFont';
+  src: url('CustomFont.woff2') format('woff2');
+  font-display: swap;
+}
+ </style>
     </head>
 <body>
     {% include 'header.njk' %}

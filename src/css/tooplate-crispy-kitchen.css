@@ -87,7 +87,6 @@ body {
 -----------------------------------------*/
 
 h2,
-h3,
 h4,
 h5,
 h6 {
@@ -97,7 +96,6 @@ h6 {
 
 h1,
 h2,
-h3,
 h4,
 h5,
 h6 {
@@ -118,10 +116,6 @@ h2 {
   font-size: var(--h2-font-size);
 }
 
-h3 {
-  font-size: var(--h3-font-size);
-}
-
 h4 {
   font-size: var(--h4-font-size);
 }
@@ -134,8 +128,7 @@ h6 {
   font-size: var(--h6-font-size);
 }
 
-p,
-.list .list-item {
+p {
   color: var(--p-color);
   font-size: var(--p-font-size);
   font-weight: var(--font-weight-light);
@@ -145,11 +138,6 @@ a,
 button {
   touch-action: manipulation;
   transition: all 0.3s;
-}
-
-.form-label {
-  color: var(--p-color);
-  font-weight: var(--font-weight-semibold);
 }
 
 a {
@@ -176,7 +164,7 @@ a:hover {
   padding-bottom: 8rem;
 }
 
-b,
+
 strong {
   font-weight: var(--font-weight-bold);
 }
@@ -381,29 +369,6 @@ strong {
   width: 100%;
 }
 
-.video-wrap {
-  z-index: -100;
-}
-
-.custom-video {
-  position: absolute;
-  top: 0;
-  left: 0;
-  object-fit: cover;
-  width: 100%;
-  height: 100%;
-}
-.custom-image {
-  z-index: -100;
-  position: absolute;
-  top: 0;
-  left: 0;
-  object-fit: cover;
-  width: 100%;
-  height: 100%;
-  filter: brightness(80%);
-}
-
 
 /*---------------------------------------
   HERO SLIDE               
@@ -412,10 +377,6 @@ strong {
   width: 100%;
   height: 100%;
   object-fit: cover;
-}
-
-.carousel-thumb {
-  position: relative;
 }
 
 .carousel-caption {
@@ -428,22 +389,9 @@ strong {
   padding: 60px 40px;
 }
 
-.hero-carousel .reviews-text,
+
 .hero-text {
   color: var(--white-color);
-}
-
-.price-tag {
-  background: var(--white-color);
-  border-radius: 100px;
-  color: var(--secondary-color);
-  font-size: var(--menu-font-size);
-  font-weight: var(--font-weight-semibold);
-  display: inline-block;
-  width: 84px;
-  height: 64px;
-  line-height: 64px;
-  text-align: center;
 }
 
 .hero-carousel .carousel-control-prev,
@@ -519,30 +467,6 @@ strong {
   background: var(--section-bg-color);
 }
 
-.menu-thumb {
-  position: relative;
-  overflow: hidden;
-}
-
-.menu-info {
-  padding: 20px 20px 30px 20px;
-}
-
-.menu-image {
-  display: block;
-}
-
-.menu-image-wrap {
-  position: relative;
-}
-
-.menu-tag {
-  position: absolute;
-  top: 0;
-  right: 0;
-  margin: 20px;
-}
-
 .newsletter-image {
   border-radius: 100%;
   object-fit: cover;
@@ -614,8 +538,7 @@ strong {
   transform: scale(1.2);
 }
 
-.category-tag,
-.menu-tag {
+.category-tag {
   background: var(--dark-color);
   border-radius: var(--border-radius-default);
   color: var(--white-color);
@@ -626,30 +549,6 @@ strong {
 
 .category-tag {
   margin-bottom: 5px;
-}
-
-.comment-form {
-  margin-bottom: 60px;
-}
-
-.news-author {
-  border-bottom: 1px solid rgba(0,0,0,0.05);
-  margin-bottom: 30px;
-  padding-left: 15px;
-  padding-right: 15px;
-  padding-bottom: 30px;
-}
-
-.news-author:last-child {
-  border-bottom: 0;
-  padding-bottom: 0;
-}
-
-.news-author-image {
-  border-radius: 100px;
-  object-fit: cover;
-  width: 70px;
-  height: 70px;
 }
 
 
@@ -686,69 +585,6 @@ strong {
 /*---------------------------------------
   BOOKING FORM            
 -----------------------------------------*/
-#BookingModal .modal-content {
-  border: 0;
-  overflow: hidden;
-}
-
-#BookingModal .modal-content::before {
-  content: "";
-  background-color: var(--white-color);
-  background-image: url('../images/sincerely-media-HoEYgBL_Gcs-unsplash.webp');
-  background-repeat: no-repeat;
-  background-position: top;
-  background-size: cover;
-  width: 60%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  right: 0;
-}
-
-#BookingModal .modal-header {
-  border-bottom: 0;
-  position: relative;
-  padding: 26px 32px 0 32px;
-}
-
-#BookingModal .modal-body {
-  padding: 38px 32px;
-  padding-right: 35%;
-}
-
-#BookingModal .modal-footer {
-  border-top: 0;
-  padding: 0;
-}
-
-.booking-form .form-control {
-  font-weight: var(--font-weight-normal);
-  padding-top: 12px;
-  padding-bottom: 12px;
-  margin-bottom: 25px;
-  transition: all 0.3s;
-}
-
-.booking-form button[type="submit"] {
-  background: var(--dark-color);
-  border: 0;
-  font-weight: var(--font-weight-semibold);
-  color: var(--white-color);
-  text-transform: uppercase;
-  margin-bottom: 0;
-}
-
-.booking-form button[type="submit"]:hover {
-  background: var(--primary-color);
-}
-
-.BgImage {
-  background-image: url('../images/alex-haney-CAhjZmVk5H4-unsplash.webp');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  height: 500px;
-}
 
 
 /*---------------------------------------
@@ -865,10 +701,6 @@ strong {
     font-size: 32px;
   }
 
-  h3 {
-    font-size: 26px;
-  }
-
   h4 {
     font-size: 24px;
   }
@@ -895,26 +727,6 @@ strong {
   .navbar-nav .nav-link {
     padding-top: 5px;
     padding-bottom: 10px;
-  }
-
-  #BookingModal .modal-content {
-    padding-bottom: 200px;
-  }
-
-  #BookingModal .modal-content::before {
-    background-image: url('../images/sincerely-media-HoEYgBL_Gcs-unsplash-mobile.webp');
-    background-position: bottom;
-    top: auto;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    height: 200px;
-    transform: rotate(180deg);
-  }
-
-  #BookingModal .modal-body {
-    padding-top: 18px;
-    padding-right: 32px;
   }
 }
 
