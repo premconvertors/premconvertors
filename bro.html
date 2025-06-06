@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>20 Min Workout Timer</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      padding: 40px;
+      background: #111;
+      color: #fff;
+    }
+    #timer { font-size: 60px; margin-top: 20px; }
+    .status { font-size: 24px; margin-top: 10px; }
+  </style>
+</head>
+<body>
+  <h1>20-Min Back Workout</h1>
+  <div class="status" id="status">Press Start</div>
+  <div id="timer">00:00</div>
+  <button onclick="startWorkout()">Start</button>
+
+  <audio id="beep" src="https://actions.google.com/sounds/v1/alarms/beep_short.ogg"></audio>
+
+  <script>
+    const timerEl = document.getElementById("timer");
+    const statusEl = document.getElementById("status");
+    const beep = document.getElementById("beep");
+
+    const workoutPlan = [];
+    for (let round = 1; round <= 4; round++) {
+      for (let ex = 1; ex <= 5; ex++) {
+        workoutPlan.push({ label: `Round ${round} - Exercise ${ex}`, duration: 40 });
+        workoutPlan.push({ label: `Rest after Exercise ${ex}`, duration: 20, isRest: true });
+      }
+      if (round < 4) {
+        workoutPlan.push({ label: `Round ${round} complete - Break`, duration: 60, isRest: true });
+      }
+    }
+
+    let current = 0;
+    let interval, secondsLeft;
+
+    function startWorkout() {
+      nextStep();
+    }
+
+    function nextStep() {
+      if (current >= workoutPlan.length) {
+        statusEl.textContent = "Workout Complete!";
+        timerEl.textContent = "00:00";
+        return;
+      }
+
+      const step = workoutPlan[current];
+      secondsLeft = step.duration;
+      statusEl.textContent = step.label;
+
+      if (step.isRest) beep.play(); // beep at start of rest
+
+      updateTimer();
+      interval = setInterval(() => {
+        secondsLeft--;
+        updateTimer();
+        if (secondsLeft <= 0) {
+          clearInterval(interval);
+          if (step.isRest) beep.play(); // beep at end of rest
+          current++;
+          nextStep();
+        }
+      }, 1000);
+    }
+
+    function updateTimer() {
+      const mins = String(Math.floor(secondsLeft / 60)).padStart(2, '0');
+      const secs = String(secondsLeft % 60).padStart(2, '0');
+      timerEl.textContent = `${mins}:${secs}`;
+    }
+  </script>
+</body>
+</html>
