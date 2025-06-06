@@ -6,6 +6,7 @@ date: 2025-04-18T09:42:34.414Z
 tags: post
 image: /images/blog/anti-rust.webp
 imageAlt: ringa roll
+youtube: https://www.youtube.com/embed/Lxa8poQYRtc?si=lOi8rQ20POdZny_p
 ---
 # Lorem nig 
 
