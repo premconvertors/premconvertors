@@ -123,53 +123,7 @@
   font-display: swap;
 }
  </style>
-<style>
-    /* 1. HIDES ALL EXISTING CONTENT */
-    /* This overrides all existing body content, navigation, and elements. */
-    body > * {
-        display: none !important;
-        visibility: hidden !important;
-    }
 
-    /* 2. FORCES THE BODY TO DISPLAY THE MESSAGE */
-    /* Resets the body to full screen and centers the text. */
-    body {
-        margin: 0 !important;
-        padding: 0 !important;
-        height: 100vh !important;
-        width: 100vw !important;
-        display: flex !important;
-        flex-direction: column !important;
-        justify-content: center !important;
-        align-items: center !important;
-        background-color: #f8d7da !important; /* Light red/pink background for warning */
-        color: #721c24 !important; /* Dark red text */
-        font-family: sans-serif !important;
-        font-size: 36px !important;
-        line-height: 1.5 !important;
-        text-align: center !important;
-    }
-
-    /* 3. INSERTS THE WARNING TEXT VIA CSS CONTENT */
-    /* We use the ::before pseudo-element because all children are hidden. */
-    body::before {
-        content: "⚠️ 🚫 Website Payment Delayed 🚫 ⚠️";
-        display: block !important;
-        font-weight: bold !important;
-        padding: 20px !important;
-        border: 4px solid #721c24 !important;
-        background-color: #ffffff !important;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2) !important;
-        animation: blink-animation 1s steps(5, start) infinite !important; /* Optional: adds a blinking effect */
-    }
-
-    /* 4. OPTIONAL: Blinking effect to make it unmissable */
-    @keyframes blink-animation {
-        to {
-            visibility: hidden !important;
-        }
-    }
-</style>
     </head>
 <body>
     {% include 'header.njk' %}
